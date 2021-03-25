@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --orange: #db8e35;
+  --bg-gray: #f5f5f5;
+
+  --white: #ffffff;
+  --dark-gray: #646464;
+
+  --light-gray: #e4dcdc;
+  --button-green: #85e664;
+  
+  --button-green-hover: #7cd65e;
+  --orange-dark: #ff7728;
+
+  --black: #000;
+  --red: #f78b8b;
+
+  --dark-red: #eb8181;
+  --warning-yellow: #d4ca70;
+
+  --dark-blue: #3b4553;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #f5f5f5;
+  font-family: 'Montserrat', sans-serif;
+}
+
+input {
+  font-family: 'Montserrat', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}

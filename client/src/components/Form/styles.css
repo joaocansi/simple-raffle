@@ -1,0 +1,86 @@
+.form-container {
+  width: 90%;
+  max-width: 500px;
+
+  background: #fff;
+  padding: 2rem;
+
+  border-radius: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+  margin: 0 auto;
+}
+
+.form-container > h2 {
+  text-transform: uppercase;
+  color: var(--orange);
+
+  font-size: 2.75em;
+  text-align: center;
+}
+
+.form-container > p {
+  font-size: 1.5rem;
+  margin: .25rem 0 1rem 0;
+
+  color: var(--dark-gray);
+  font-weight: 200;
+
+  text-align: center;
+}
+
+.form-container > form {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.form-container > form > .input-block {
+  display: flex;
+  flex-direction: column;
+
+  margin: 2rem 0;
+}
+
+.form-container > form > .input-block > input {
+  border: 0;
+  background-color: var(--bg-gray);
+
+  padding: 1.5rem;
+  border-bottom: 2px solid var(--light-gray);
+}
+
+.form-container > form > .input-block > label {
+  font-size: 1.25rem;
+  color: var(--dark-gray);
+
+  margin-bottom: .5rem;
+}
+
+.form-container > form > .input-block > input:hover {
+  outline: none;
+}
+
+.form-container > form > .input-block > input:focus {
+  outline: none;
+}
+
+.form-container > form > button {
+  border: 0;
+  background: var(--button-green);
+
+  width: 100%;
+  text-transform: uppercase;
+
+  color: var(--white);
+  font-weight: 600;
+
+  border-radius: 5px;
+  padding: 1.5rem;
+
+  margin-bottom: .5rem;
+  transition: background-color .5s;
+}
+
+.form-container > form > button:hover {
+  background: var(--button-green-hover);
+}

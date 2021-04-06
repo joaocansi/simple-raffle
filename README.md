@@ -1,7 +1,7 @@
 # simple-raffle
 A simple raffle system that you can draw lots of numbers in a range.
 <p align="center">
-  <img src="https://i.ibb.co/3zGrMM0/simple-raffle.png" />  
+  <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
 </p>
 
 ### Techs

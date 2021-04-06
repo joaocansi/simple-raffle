@@ -29,15 +29,11 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 ## 🔖 Layout
 
 <p align="center">
-  <img src="https://i.ibb.co/r0x0tPP/raffle-result-page.png" />
-</p>
-
-<p align="center">
   <img src="https://i.ibb.co/3pMfvjW/create-raffle-page.png" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/yRBmcRt/raffle-result-page-x1920.png" />
+  <img src="https://i.ibb.co/r0x0tPP/raffle-result-page.png" />
 </p>
 
 ## 🚀 How to start

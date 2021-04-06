@@ -21,4 +21,14 @@ This project was created using this following technologies:
 
 ## 💻 Project
 
-Simple Raffle is a project that allows you to draw your raffle. You just need to put the first number, last number and the amount of numbers that will be drawn. The system will generate the result and will create an exclusive link that you can share with the participants
+Simple Raffle is a project that allows you to draw a raffle. You just need to put the first number, last number and the amount of numbers that will be drawn. The system will generate the result and will create an exclusive link that you can share with the participants.
+
+## 🔖 Layout
+
+<p align="center">
+  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
+</p>

@@ -42,22 +42,18 @@ export default {
     const raffleEntity = repository.create(data);
 
     await repository.save(raffleEntity);
-    return res.status(201).json(raffleEntity);
+    return res.json(raffleEntity);
 
   },
 
   async show(req: Request, res: Response) {
-
-    const { id } = req.query;
-    if (!id) {
-      return res.send();
-    }
+    const { id } = req.params;
 
     const repository = getRepository(Raffle);
     const findRaffle = await repository.findOne({ id: (id as string) });
 
     if (!findRaffle) {
-      return res.status(400).json({ message: 'Raffle not found' });
+      throw new ServerError('Raffle not found', 404);
     }
 
     let result = JSON.parse(findRaffle.result) as number[];

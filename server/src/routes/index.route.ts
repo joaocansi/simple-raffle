@@ -1,10 +1,8 @@
 import { Router } from 'express';
-import asyncHandler from 'express-async-handler';
-
 import RaffleController from '../controllers/RaffleController';
 
 const routes = Router();
-routes.post('/raffle', asyncHandler(RaffleController.store));
-routes.get('/raffle', asyncHandler(RaffleController.show));
+routes.post('/raffle', RaffleController.store);
+routes.get('/raffle/:id', RaffleController.show);
 
 export default routes;

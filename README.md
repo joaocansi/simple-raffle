@@ -3,9 +3,9 @@
 </h1>
 <p align="center">
   <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
@@ -18,3 +18,7 @@ This project was created using this following technologies:
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## 💻 Project
+
+Simple Raffle is a project that allows you to draw your raffle. You just need to put the first number, last number and the amount of numbers that will be drawn. The system will generate the result and will create an exclusive link that you can share with the participants

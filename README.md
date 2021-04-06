@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/pJRC7HL/simple-raffle-title.png" />
+  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/DkKkcnW/simple-raffle-title.png" />
 </h1>
 <p align="center">
   <a href="#-techs">✨ Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

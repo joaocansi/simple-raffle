@@ -34,3 +34,12 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 </p>
 
 ## 🚀 How to start
+
+- Clone this repository
+- Back-end:
+  - `cd server`
+  - `yarn typeorm migration:run`
+  - `yarn start`
+- Front-end: 
+  - `cd client`
+  - `yarn start`

@@ -1,23 +1,19 @@
 # simple-raffle
 A simple raffle system that you can draw lots of numbers in a range.
 <p align="center">
+  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
 </p>
 
-### Techs
-<p align="center">
-  <img src="https://i.ibb.co/qsKbXGG/1-q5-Tn2-Fk-Q6-Q99-Dr-MVx-Ge-Hpw.png" />  
-</p>
+### ✨ Techs
 
-### Pages
-<p>Route: /</p>
-<p align="center">
-  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
-</p>
+This project was created using this following technologies:
 
-<p>Route: /raffle/[id]</p>
-<p align="center">
-  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
-</p>
-
-### How to 
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)

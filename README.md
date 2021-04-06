@@ -1,5 +1,6 @@
-# simple-raffle
-A simple raffle system that you can draw lots of numbers in a range.
+<h1 align="center">
+  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/NVDPVfB/simple-raffle-title.png" />
+</h1>
 <p align="center">
   <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/NVDPVfB/simple-raffle-title.png" />
+  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/pJRC7HL/simple-raffle-title.png" />
 </h1>
 <p align="center">
-  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-start">How to start</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">✨ Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">🔖 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-start">🚀 How to start</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
@@ -16,7 +16,7 @@
 This project was created using this following technologies:
 
 - [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
+- [Nodejs](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project

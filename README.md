@@ -5,7 +5,7 @@
   <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-start">How to start</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
@@ -30,5 +30,7 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
+  <img src="https://i.ibb.co/yP3wmMj/2021-04-06-18-24-simple-raffle-netlify-app.png" />
 </p>
+
+## 🚀 How to start

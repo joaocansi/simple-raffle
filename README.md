@@ -43,3 +43,5 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 - Front-end: 
   - `cd client`
   - `yarn start`
+
+Now you can access [`localhost:3000`](http://localhost:3000) in your browser.

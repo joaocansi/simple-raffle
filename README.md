@@ -10,7 +10,7 @@ A simple raffle system that you can draw lots of numbers in a range.
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
 </p>
 
-### ✨ Techs
+## ✨ Techs
 
 This project was created using this following technologies:
 

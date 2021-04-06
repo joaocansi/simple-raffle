@@ -8,6 +8,9 @@
   <a href="#-how-to-start">🚀 How to start</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
+  <img alt="License" src="https://img.shields.io/apm/l/vim-mode?color=7bbbe0">
+</p>
+<p align="center">
   <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
 </p>
 

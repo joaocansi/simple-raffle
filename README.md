@@ -11,7 +11,7 @@
   <img alt="License" src="https://img.shields.io/apm/l/vim-mode?color=DB8E35">
 </p>
 <p align="center">
-  <img width="700" src="https://i.imgur.com/4lcCAtl.png" />  
+  <img width="700" src=".github/simple-raffle.png" />  
 </p>
 
 ## ✨ Techs
@@ -29,11 +29,11 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 ## 🔖 Layout
 
 <p align="center">
-  <img width="700" src="https://i.imgur.com/CB2uOLG.png" />
+  <img width="700" src=".github/Screenshot_5.png" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://i.imgur.com/KdjFMg9.png" />
+  <img width="700" src=".github/Screenshot_1.png" />
 </p>
 
 ## 🚀 How to start

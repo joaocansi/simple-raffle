@@ -1,14 +1,17 @@
 <h1 align="center">
-  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/NVDPVfB/simple-raffle-title.png" />
+  <img alt="simple-raffle" title="simple-raffle" src="https://i.ibb.co/DkKkcnW/simple-raffle-title.png" />
 </h1>
 <p align="center">
-  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-start">How to start</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">✨ Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">🔖 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-start">🚀 How to start</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/8g3xnbZ/simple-raffle.png" />  
+  <img alt="License" src="https://img.shields.io/apm/l/vim-mode?color=DB8E35">
+</p>
+<p align="center">
+  <img width="700" src="https://i.imgur.com/4lcCAtl.png" />  
 </p>
 
 ## ✨ Techs
@@ -16,7 +19,7 @@
 This project was created using this following technologies:
 
 - [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
+- [Nodejs](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project
@@ -26,11 +29,22 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 ## 🔖 Layout
 
 <p align="center">
-  <img src="https://i.ibb.co/m4fGH4S/2021-04-06-18-23-simple-raffle-netlify-app.png" />
+  <img width="700" src="https://i.imgur.com/CB2uOLG.png" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/yP3wmMj/2021-04-06-18-24-simple-raffle-netlify-app.png" />
+  <img width="700" src="https://i.imgur.com/KdjFMg9.png" />
 </p>
 
 ## 🚀 How to start
+
+- Clone this repository
+- Back-end:
+  - `cd server`
+  - `yarn typeorm migration:run`
+  - `yarn start`
+- Front-end: 
+  - `cd client`
+  - `yarn start`
+
+Now you can access [`localhost:3000`](http://localhost:3000) in your browser.

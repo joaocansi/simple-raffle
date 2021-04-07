@@ -33,7 +33,7 @@ Simple Raffle is a project that allows you to draw a raffle. You just need to pu
 </p>
 
 <p align="center">
-  <img width="700" src="https://i.imgur.com/KdjFMg9.png" />
+  <img width="700" src="https://i.ibb.co/QpSvvdF/Screenshot-1.png" />
 </p>
 
 ## 🚀 How to start

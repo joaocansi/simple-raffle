@@ -31,7 +31,7 @@ const RaffleComponent: React.FC<RaffleItem> = ({ id }) => {
   const [loading, setLoading] = useState(true);
  
   function findRaffleById() {
-    api.get(`/raffle/?id=${id}`).then(response => {
+    api.get(`/raffle/${id}`).then(response => {
       setRaffle(response.data);
       setLoading(false);
     }).catch(err => {
